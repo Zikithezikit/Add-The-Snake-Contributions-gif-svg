@@ -110,6 +110,7 @@ so mine looks like this
 ```
 
 (Keywords)
+<br></br>
 How to add the snake gif to your github
 How to add the snake game to git hub README readme README.md readme.md
 Insert contributions snake
