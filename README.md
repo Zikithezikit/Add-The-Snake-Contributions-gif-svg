@@ -2,6 +2,7 @@
 
 ### This is a simple step by step tutorial to add the snake gif. So there will be no customisation. Go to the original repository. 
 
+
 Good luck     (￣^￣ゞ
 
 ![SnakeSvg](https://github.com/Zikithezikit/Add-The-Snake-Contributions-gif-svg/blob/main/assets/github-user-contribution.svg)
@@ -108,5 +109,8 @@ so mine looks like this
 ![snake animation](https://github.com/Zikithezikit/Zikithezikit/blob/output/github-snake-dark.svg)
 ```
 
-
+(Keywords)
+How to add the snake gif to your github
+How to add the snake game to git hub README readme README.md readme.md
+Insert contributions snake
 
